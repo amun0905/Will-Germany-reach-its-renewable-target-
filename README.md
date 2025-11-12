@@ -5,7 +5,6 @@
 **Module Title:** Energy Systems  
 **Institution:** UCL – The Bartlett School of Environment, Energy and Resources  
 **Author:** Amun Govil Lie
-**Supervisor:** Prof Neil Strachan  
 **Submission Date:** 16 January 2025  
 **Word Count:** 1998  
 
