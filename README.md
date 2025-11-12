@@ -1,15 +1,3 @@
-# MSc ESDA Coursework – Energy Systems Module
-
-**Coursework Title:** Will Germany reach 80% renewables in power consumption by 2030?  
-**Module Code:** BENV0090  
-**Module Title:** Energy Systems  
-**Institution:** UCL – The Bartlett School of Environment, Energy and Resources  
-**Author:** Amun Govil Lie
-**Submission Date:** 16 January 2025  
-**Word Count:** 1998  
-
----
-
 ##  Overview
 
 This essay critically evaluates Germany’s target to achieve 80% renewables in power consumption by 2030, as outlined in the Renewable Energy Sources Act (EEG). It explores both technical and political dimensions of the Energiewende, assessing whether current trends and policy environments support or hinder the feasibility of this goal.
