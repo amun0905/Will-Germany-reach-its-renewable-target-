@@ -1,4 +1,4 @@
-# 📘 MSc ESDA Coursework – Energy Systems Module
+# MSc ESDA Coursework – Energy Systems Module
 
 **Coursework Title:** Will Germany reach 80% renewables in power consumption by 2030?  
 **Module Code:** BENV0090  
